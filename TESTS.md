@@ -1,12 +1,5 @@
-# test 1
+# cable adapter test
 ## setup
-Describe your test setup
+Connect b010 to b060 to b095. 
 ## results
-Describe your results
-
-
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+connecting cables to both ends should allow communication transparently though the chain.

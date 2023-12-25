@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "on_edge")(type "KiCad")(uri "${KIPRJMOD}/../put_on_edge/on_edge.pretty")(options "")(descr ""))
+  (lib (name "on_edge")(type "KiCad")(uri "C:/git/osf/b099_100BASE-T_magnetics_749013011A/put_on_edge/on_edge.pretty")(options "")(descr ""))
+  (lib (name "b095")(type "KiCad")(uri "${KIPRJMOD}/b095.pretty")(options "")(descr ""))
 )
